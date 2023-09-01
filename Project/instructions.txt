@@ -1,0 +1,12 @@
+python manage.py createsuperuser
+to create a user
+
+current two users { username and password }
+ayush : ayush
+ayushkhaire : Pass@1234
+
+to start project
+python manage.py runserver  
+
+go to django adminm
+http://127.0.0.1:8000/admin/login/?next=/admin/
